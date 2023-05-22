@@ -1,13 +1,12 @@
 ---
-name: Jane Smith
-image: images/photo.jpg
-role: pi
+name: Carol Tardivo
+image: images/carol_tardivo.jpeg
+role: phd
 aliases:
-  - J. Smith
-  - J Smith
+  - Caroline Tardivo
 links:
   home-page: https://janesmith.com
-  orcid: 0000-0001-8713-9213
+  orcid: 
 ---
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
