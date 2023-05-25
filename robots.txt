@@ -1,1 +1,1 @@
-Sitemap: /sitemap.xml
+Sitemap: /albrechtlab/sitemap.xml
