@@ -1,7 +1,7 @@
 ---
 name: Bo Meyering
 image: images/bo_meyering.jpeg
-description: Programmer
+description: Data Scientist
 role: datascientist
 links:
   email: bbmeyering@ufl.edu
