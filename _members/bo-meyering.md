@@ -1,7 +1,7 @@
 ---
 name: Bo Meyering
 image: images/bo_meyering.jpeg
-description: Programmer
+description: Data Scientist
 role: datascientist
 links:
   email: bbmeyering@ufl.edu
@@ -12,4 +12,4 @@ links:
   linkedin: https://www.linkedin.com/in/bo-meyering-37955b139/
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Bo is the former lab manager for the Albrecht lab, but now he handles data related tasks and finds analytical solutions to questions that our research leads us to. He is fluent in Python, R, and knows a bit of Javascript and SQL. He loves working in Linux operating systems and using open source tools.
