@@ -1,19 +1,18 @@
 ---
 name: Ute Albrecht
 image: images/ute_albrecht.jpeg
+description: Principal Investigator
 role: pi
 aliases:
-  - Ute Albrecht
 links:
-  home-page: https://janesmith.com
+  email: ualbrecht@ufl.edu
+  home-page: 
   orcid: 0000-0003-1889-9598
   google-scholar: 2im6Ss8AAAAJ
+  linkedin: https://www.linkedin.com/in/ute-albrecht-27b035120/
+  # research-gate: https://www.researchgate.net/profile/Ute-Albrecht
+  # uf-directory:
+
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Faucibus purus in massa tempor nec feugiat nisl pretium fusce.
-Elit at imperdiet dui accumsan.
-Duis tristique sollicitudin nibh sit amet commodo nulla facilisi.
-Vitae elementum curabitur vitae nunc sed velit dignissim sodales.
-Lacinia at quis risus sed vulputate odio ut.
-Magna eget est lorem ipsum.
+Dr. Albrecht joined the UF/IFAS Southwest Florida Research and Education Center in January 2016, bringing with her a wealth of expertise in citrus rootstocks and citrus tree physiology. She holds a Ph.D. in Biology from Johannes Gutenberg University in Mainz, Germany. Previously, she worked as supporting scientist on the citrus improvement team at the USDA-ARS Horticultural Research Lab in Fort Pierce, FL. Her research focuses on rootstock traits and root system architecture, and has led the field in finding innovative solutions to combat Huanglongbing (HLB), commonly known as 'Citrus greening'.
