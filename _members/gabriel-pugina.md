@@ -1,18 +1,24 @@
 ---
 name: Gabriel Pugina
 image: images/gabriel_pugina.jpeg
+description: Ph.D. Student
 role: phd
 aliases:
-  - Gabriel De Castro
+  - Gabe
 links:
-  home-page: https://janesmith.com
-  orcid:
+  email: gabrieldecastro@ufl.edu
+  # home-page: 
+  # orcid:
+  github: gabreilpugina
+  # google-scholar: 
+  linkedin: https://www.linkedin.com/in/bo-meyering-37955b139/
+  # research-gate: https://www.researchgate.net/profile/Gabriel-Pugina
+  # uf-directory:
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Faucibus purus in massa tempor nec feugiat nisl pretium fusce.
-Elit at imperdiet dui accumsan.
-Duis tristique sollicitudin nibh sit amet commodo nulla facilisi.
-Vitae elementum curabitur vitae nunc sed velit dignissim sodales.
-Lacinia at quis risus sed vulputate odio ut.
-Magna eget est lorem ipsum.
+Gabe is a second-year Ph.D. student and the current lab manager at in the Albrecht lab. He has extensive experience with large field trials, data collection, data processing, greenhouse studies, and data analysis using R. Gabe loves (…). His research is titled "Large-scale field evaluation of compost applied to sweet orange trees grown on four rootstocks".
+
+# Selected Skills
+* Python programming
+* Machine learning and statistical modeling
+* Image analysis
