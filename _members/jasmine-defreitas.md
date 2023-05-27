@@ -2,7 +2,7 @@
 name: Jasmine De Freitas
 image: images/jasmine_defreitas.jpeg
 description: Biological Scientist II
-role: biosci
+role: biosci2
 # aliases:
 links:
   email: jasminedefreitas@ufl.edu

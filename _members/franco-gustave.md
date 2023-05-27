@@ -2,7 +2,7 @@
 name: Franco Gustave
 image: images/
 description: Biological Scientist I
-role: biosci
+role: biosci1
 # aliases:
 links:
   email: fgustave@ufl.edu
