@@ -15,6 +15,12 @@ nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
 
 {% include list.html data="members" component="portrait" filters="role: pi" %}
 {% include list.html data="members" component="portrait" filters="role: postdoc" %}
+{% include list.html data="members" component="portrait" filters="role: phd" %}
+{% include list.html data="members" component="portrait" filters="role: ms" %}
+{% include list.html data="members" component="portrait" filters="role: biosci" %}
+{% include list.html data="members" component="portrait" filters="role: agasst" %}
+{% include list.html data="members" component="portrait" filters="role: datascientist" %}
+{% include list.html data="members" component="portrait" filters="role: programmer" %}
 {% include list.html data="members" component="portrait" filters="role: ^(?!pi$)" %}
 
 {% include section.html background="images/background.jpg" dark=true %}
