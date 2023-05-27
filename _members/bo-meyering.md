@@ -7,7 +7,7 @@ aliases:
   - Bryce Meyering
 links:
   email: bbmeyering@ufl.edu
-  home-page: bomeyering.me
+  home-page: https://www.bomeyering.me
   orcid: 0000-0002-1524-787X
   github: BoMeyering
   google-scholar: 60-Xe30AAAAJ
