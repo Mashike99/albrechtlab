@@ -3,6 +3,7 @@ name: Ankit Pokhrel
 image: images/ankit_pokhrel.jpeg
 description: Master's Student
 role: ms
+# aliases: 
 links:
   email: pokhrel@ufl.edu
   # home-page: 
