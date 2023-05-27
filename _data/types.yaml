@@ -18,9 +18,13 @@ ms:
   icon: fa-solid fa-graduation-cap
   description: Masters Student
 
-biosci:
+biosci1:
   icon: fa-solid fa-flask
-  description: Biological Scientist
+  description: Biological Scientist I
+  
+biosci2:
+  icon: fa-solid fa-flask
+  description: Biological Scientist II
 
 agasst:
   icon: fa-solid fa-flask
