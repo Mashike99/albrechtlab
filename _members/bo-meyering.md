@@ -11,7 +11,7 @@ links:
   orcid: 0000-0002-1524-787X
   github: BoMeyering
   google-scholar: 60-Xe30AAAAJ
-  linkedin: https://www.linkedin.com/in/bo-meyering-37955b139/
+  linkedin: bo-meyering-37955b139/
   # research-gate: https://www.researchgate.net/profile/Bo-Meyering
   # uf-directory:
 ---
