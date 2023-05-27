@@ -11,7 +11,7 @@ links:
   # orcid:
   github: gabreilpugina
   # google-scholar: 
-  linkedin: https://www.linkedin.com/in/bo-meyering-37955b139/
+  linkedin: gabriel-pugina-955987161/
   # research-gate: https://www.researchgate.net/profile/Gabriel-Pugina
   # uf-directory:
 ---
