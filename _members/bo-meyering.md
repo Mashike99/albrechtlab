@@ -15,8 +15,8 @@ links:
   # research-gate: https://www.researchgate.net/profile/Bo-Meyering
   # uf-directory:
 ---
-
-Bo is the former lab manager for the Albrecht lab, but now he handles data related tasks and is passionate about finding analytical solutions to questions that our research leads us to. He is fluent in Python, R, and SQL, and dabbles a bit in Javascript. He loves working in Linux operating systems (!Pop_OS) and using and deploying open-source tools. He is currently pursuing his master's degree in analytics from Georgia Institute of Technology.
+# About
+Bo is the former lab manager for the Albrecht lab, but now he handles data related tasks and is passionate about finding analytical solutions to questions that our research leads us to. He is fluent in Python, R, and SQL, and dabbles a bit in Javascript. He loves working in Linux operating systems [(!Pop_OS)](https://pop.system76.com/) and using and deploying open-source tools. He holds a BS in Biology from Southeastern University, and is currently pursuing his master's degree in analytics from Georgia Institute of Technology.
 
 # Selected Skills
 * Python programming

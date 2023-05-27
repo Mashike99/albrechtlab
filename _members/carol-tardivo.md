@@ -11,9 +11,11 @@ links:
   # orcid: 
   github: caroltardivo
   # google-scholar: 
-  linkedin: https://www.linkedin.com/in/caroline-tardivo-/
+  linkedin: caroline-tardivo-/
   # research-gate: https://www.researchgate.net/profile/Caroline-Tardivo
   # uf-directory:
 ---
+# About
+Carol is a second-year Ph.D. student and data analyst at Albrecht's lab. Carol has experience in the field, greenhouse, growth chamber trials, lab assays, and statistical data analysis using R. She is passionate about horticultural science, plant physiology, molecular biology, and building strong research teams. Her Ph.D. dissertation work is titled "New rootstocks for citrus production in Florida: Challenges from the nursery to the field".
 
-Carol is a second-year Ph.D. student and data analyst at Albrecht's lab. Carol has experience in the field, greenhouse, growth chamber trials, lab assays, and statistical data analysis using R. She is passionate about horticultural science, plant physiology, molecular biology, and building strong research teams. Her research is titled "New rootstocks for citrus production in Florida: Challenges from the nursery to the field".
+# Selected Skills

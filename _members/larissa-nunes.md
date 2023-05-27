@@ -14,5 +14,7 @@ links:
   # research-gate: 
   # uf-directory:
 ---
-
+# About
 Larissa is an Agricultural Assistant at in the Albrecht lab. She holds a master’s degree in citrus horticulture and breeding from [Sao Paulo State University]{https://www.international.unesp.br/} in Brazil. Larissa has experience with large rootstock field trials and citrus breeding. She is looking forward to starting her Ph.D. studies in our lab in the near future.
+
+# Selected Skills
