@@ -14,5 +14,7 @@ links:
   # research-gate: https://www.researchgate.net/profile/Rayane-Barcelos-Bisi/research
   # uf-directory:
 ---
+# About
+Rayane Bisi is a Post Doctoral Associate in the Albrecht lab. She holds a Ph.D. degree from XX University in Brazil. She has 10 years of experience in plant physiology, and has conducted field, laboratory, and greenhouse research on new cultivar evaluation, plant propagation, plant disease management, PCR and SSR analysis, LED lighting use on plant growth, fruit quality, and floral characterization. She is knowledgeable in fruit tree physiology and plant propagation.
 
-Rayane Bisi is a Post Doctoral Associate in the Albrecht lab. She holds a Ph.D. degree from ___ University in Brazil. She has 10 years of experience in plant physiology, and has conducted field, laboratory, and greenhouse research on new cultivar evaluation, plant propagation, plant disease management, PCR and SSR analysis, LED lighting use on plant growth, fruit quality, and floral characterization. She is knowledgeable in fruit tree physiology and plant propagation.
+# Selected Skills
