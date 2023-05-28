@@ -3,7 +3,7 @@
 
 # Welcome to the Albrecht Lab
 
-We are a group of scientists and researchers at the University of Florida's Southwest Research and Education Ceners [(SWFREC)](https://swfrec.ifas.ufl.edu/) located in sunny south Florida and the heart of Florida citrus production. Our research focuses citrus rootstocks, root system architecture, and trunk injection therapies for citrus greening.
+We are a group of scientists and researchers at the University of Florida's Southwest Research and Education Ceners [(SWFREC)](https://swfrec.ifas.ufl.edu/) located in sunny south Florida and the heart of Florida citrus production. Our research focuses on citrus rootstocks, root system architecture, and trunk injection therapies for citrus greening.
 
 {% include section.html %}
 
