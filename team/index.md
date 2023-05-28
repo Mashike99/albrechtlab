@@ -7,9 +7,7 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-users" %}Team
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
-incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
-nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+Here is a snapshot of each one of our highly valued and skilled team members in the Albrecht lab.
 
 {% include section.html %}
 
@@ -44,14 +42,14 @@ In addition to our current lab personnel, we have had the privilege of having ma
 * Susmita Gaire
 
 ## Staff
-* Adam Hoeffner (Agricultural assistant)
-* Gustavo Basaglia (Agricultural assistant)
-* Thang Kim (Agricultural assistant)
-* Blessing Chukwuaja (Agricultural assistant)
-* Murilo Piccin (Agricultural assistant)
+* Adam Hoeffner
+* Gustavo Basaglia
+* Thang Kim
+* Blessing Chukwuaja
+* Murilo Piccin
 
 ## Interns
-* Respect Musiyiwa (Earth University)
+* Respect Musiyiwa
 
 {% include section.html %}
 
