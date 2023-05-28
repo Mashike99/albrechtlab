@@ -15,6 +15,6 @@ links:
   # uf-directory:
 ---
 # About
-Jasmine is a Biological Scientist II at Albrecht's lab. She holds a master’s degree in citrus pathology from [Fundecitrus](https://www.fundecitrus.com.br/) in Brazil. Jasmine has experience with (...). She is looking forward (...).
+Jasmine is a Biological Scientist II in the Albrecht lab. She holds a master’s degree in citrus pathology from [Fundecitrus](https://www.fundecitrus.com.br/) in Brazil. Jasmine has experience with (...). She is looking forward (...).
 
 # Selected Skills

@@ -15,6 +15,6 @@ links:
   # uf-directory:
 ---
 # About
-Gerardo is an Agricultural Assistant at Albrecht's lab. He holds a bachelor’s degree in plant science from Florida State University. Gerardo has experience with large field trials, data collection and processing.
+Gerardo is an Agricultural Assistant in the Albrecht lab. He holds a bachelor’s degree in plant science from Florida State University. Gerardo has experience with large field trials, data collection and processing.
 
 # Selected Skills
