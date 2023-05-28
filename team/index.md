@@ -26,9 +26,32 @@ nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
 
 {% include section.html background="images/background.jpg" dark=true %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
-incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
-nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+# Former Lab Personnel
+In addition to our current lab personnel, we have had the privilege of having many other students, staff, and interns over the years. Here is a list of our former lab members along with their current positions.
+
+## Post Doctoral Associates
+* Dr. Anas Fadli
+* Dr. Aditi Satpute
+* Dr. Indu Tripathi
+
+## Ph.D. Students
+* Dr. Leigh Archer
+* Dr. Shahrzad Bodaghi-Parker
+
+## Master's Students
+* Sudip Kunwar
+* Sameer Pokhrel
+* Susmita Gaire
+
+## Staff
+* Adam Hoeffner (Agricultural assistant)
+* Gustavo Basaglia (Agricultural assistant)
+* Thang Kim (Agricultural assistant)
+* Blessing Chukwuaja (Agricultural assistant)
+* Murilo Piccin (Agricultural assistant)
+
+## Interns
+* Respect Musiyiwa (Earth University)
 
 {% include section.html %}
 
