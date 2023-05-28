@@ -1,6 +1,6 @@
 ---
 name: Ute Albrecht
-image: images/ute_albrecht.jpeg
+image: images/ute_albrecht.jpg
 description: Principal Investigator
 role: pi
 aliases:

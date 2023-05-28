@@ -41,6 +41,9 @@ programmer:
 datascientist:
   icon: fa-brands fa-python
   description: Data Scientist
+  
+former:
+  description: Lab Alumnus
 
 mascot:
   icon: fa-solid fa-dog
