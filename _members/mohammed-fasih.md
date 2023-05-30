@@ -15,6 +15,6 @@ links:
   # uf-directory:
 ---
 # About
-Mohammed Fasih is a Post Doctoral Associate in the Albrecht lab. He holds a Ph.D. degree from XX University in Pakistan. His research focuses on plant responses to multiple environmental stress conditions. He is also interested in physiological, antioxidant activities, osmolytes/osmoprotectants, stress indicators, minerals elements, and transcriptomic analysis.
+Muhammad Fasih Khalid is a Post-Doctoral Associate in the Albrecht lab. He holds a Ph.D. degree in Citriculture from Bahauddin Zakariya University in Pakistan. He is seeking answers to plant responses to multiple environmental stress conditions and what mechanisms are involved in their tolerance. His expertise includes whole plant physiology, antioxidant activities, osmolytes/osmoprotectants, stress indicators, and mineral analysis.
 
 # Selected Skills
