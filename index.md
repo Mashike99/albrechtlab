@@ -74,7 +74,7 @@ Meet our team members.
 
 {%
   include feature.html
-  image="images/team_front.jpg"
+  image="images/team_front.jpeg"
   link="team"
   title="Our Team"
   text=text
