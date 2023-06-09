@@ -1,17 +1,17 @@
 ---
 name: Mohammed Fasih
-image: images/
+image: images/mohammed-fasih.jpeg
 description: Post-doctoral Associate
 role: postdoc
 # aliases:
 links:
   email: muhammadf.khalid@ufl.edu
   # home-page: 
-  # orcid: 
+  orcid: 0000-0001-7998-7490
   # github: 
-  # google-scholar: 
-  linkedin: https://www.linkedin.com/in/muhammad-fasih-khalid-79323b197/
-  # research-gate: https://www.researchgate.net/profile/Muhammad-Khalid-33
+  google-scholar: ZG14xf0AAAAJ
+  linkedin: muhammad-fasih-khalid-79323b197/
+  research-gate: Muhammad-Khalid-33
   # uf-directory:
 ---
 # About
