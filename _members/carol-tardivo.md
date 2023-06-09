@@ -12,7 +12,7 @@ links:
   github: caroltardivo
   # google-scholar: 
   linkedin: caroline-tardivo-/
-  # research-gate: https://www.researchgate.net/profile/Caroline-Tardivo
+  research-gate: Caroline-Tardivo
   # uf-directory:
 ---
 # About
