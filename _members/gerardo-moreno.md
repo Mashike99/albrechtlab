@@ -1,6 +1,6 @@
 ---
 name: Gerardo Moreno
-image: images/
+image: images/gerardo-moreno.jpeg
 description: Agricultural Assistant
 role: agasst
 # aliases:
@@ -10,11 +10,14 @@ links:
   # orcid: 
   # github: 
   # google-scholar: 
-  # linkedin: 
+  linkedin: gerardo-moreno-81340918a/
   # research-gate: 
   # uf-directory:
 ---
 # About
-Gerardo is an Agricultural Assistant in the Albrecht lab. He holds a bachelor’s degree in plant science from Florida State University. Gerardo has experience with large field trials, data collection and processing.
+Gerardo is an Agricultural Assistant in the Albrecht lab. He holds a bachelor’s degree in biological sciences from [Florida State University](https://www.fsu.edu/). Gerardo has experience with large field trials, data collection, and data processing. He looks forward to gaining more lab and field experience.
 
 # Selected Skills
+* Skill 1
+* Skill 2
+* Skill 3

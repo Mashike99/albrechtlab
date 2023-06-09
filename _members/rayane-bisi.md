@@ -1,6 +1,6 @@
 ---
 name: Rayane Bisi
-image: images/
+image: images/rayane-bisi.jpeg
 description: Post-doctoral Associate
 role: postdoc
 # aliases: 
@@ -11,10 +11,13 @@ links:
   # github: 
   google-scholar: L3a5Z_wAAAAJ
   linkedin: https://www.linkedin.com/in/rayanebarcelosbisi/
-  # research-gate: https://www.researchgate.net/profile/Rayane-Barcelos-Bisi/research
+  # research-gate: Rayane-Barcelos-Bisi
   # uf-directory:
 ---
 # About
-Rayane Bisi is a Post Doctoral Associate in the Albrecht lab. She holds a Ph.D. degree from XX University in Brazil. She has 10 years of experience in plant physiology, and has conducted field, laboratory, and greenhouse research on new cultivar evaluation, plant propagation, plant disease management, PCR and SSR analysis, LED lighting use on plant growth, fruit quality, and floral characterization. She is knowledgeable in fruit tree physiology and plant propagation.
+Rayane Bisi is a Postdoctoral Research Associate at the Albrecht lab. She holds a Ph.D. in Plant Science / Agronomy from [Universidade Federal de Lavras](https://ufla.br/en/ufla/) in Brazil. She has ten years of experience researching plant physiology, conducting field, laboratory, and greenhouse research on evaluating new cultivars, plant propagation, plant disease management, fruit quality, floral characterization, PCR and SSR analysis, and LED lighting use on plant growth. She is proficient in fruit tree physiology.
 
 # Selected Skills
+* Skill 1
+* Skill 2
+* Skill 3
