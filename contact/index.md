@@ -34,7 +34,7 @@ Have questions about our research? Looking for a job opportunity in a fast-paced
 
 {%
   include figure.html
-  image="images/photo.jpg"
+  image="images/swfrec_contact.jpeg"
   caption="Southwest Florida Research and Education Center"
 %}
 
@@ -44,8 +44,8 @@ Have questions about our research? Looking for a job opportunity in a fast-paced
 
 {%
   include figure.html
-  image="images/photo.jpg"
-  caption="Lorem ipsum"
+  image="images/team_2.JPG"
+  caption="Our lab group"
 %}
 
 {% endcapture %}
