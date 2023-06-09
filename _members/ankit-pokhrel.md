@@ -11,7 +11,7 @@ links:
   # github: 
   # google-scholar: 
   linkedin: ankit-pokhrel-27829b150/
-  # research-gate: https://www.researchgate.net/profile/Ankit-Pokhrel
+  research-gate: Ankit-Pokhrel
   # uf-directory:
 ---
 # About 
