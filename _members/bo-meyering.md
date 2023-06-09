@@ -12,7 +12,7 @@ links:
   github: BoMeyering
   google-scholar: 60-Xe30AAAAJ
   linkedin: bo-meyering-37955b139/
-  # research-gate: https://www.researchgate.net/profile/Bo-Meyering
+  researchgate: Bo-Meyering
   # uf-directory:
 ---
 # About
