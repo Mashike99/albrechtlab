@@ -1,133 +1,302 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
-- id: doi:10.1093/nar/gkad289
-  title: 'MyGeneset.info: an interactive and programmatic platform for community-curated
-    and user-created collections of genes'
+- id: doi:10.1016/j.scienta.2022.111635
+  title: "Field performance of \u2018Valencia\u2019 orange trees on diploid and tetraploid\
+    \ rootstocks in different huanglongbing-endemic growing environments"
   authors:
-  - Ricardo Avila
-  - Vincent Rubinetti
-  - Xinghua Zhou
-  - Dongbo Hu
-  - Zhongchao Qian
-  - Marco Alvarado Cano
-  - Everaldo Rodolpho
-  - Ginger Tsueng
-  - Casey Greene
-  - Chunlei Wu
-  publisher: Nucleic Acids Research
-  date: '2023-04-18'
-  link: https://doi.org/gr5hb5
-  orcid: 0000-0002-4655-3773
+  - Sudip Kunwar
+  - Bo Meyering
+  - Jude Grosser
+  - Fred G. Gmitter
+  - William S. Castle
+  - Ute Albrecht
+  publisher: Scientia Horticulturae
+  date: '2023-02-01'
+  link: https://doi.org/gq443x
+  orcid: 0000-0003-1889-9598
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1101/2023.01.05.522941
-  title: Hetnet connectivity search provides rapid insights into how two biomedical
-    entities are related
+- id: doi:10.3390/agriculture12101592
+  title: Efficacy of Trunk Injected Imidacloprid and Oxytetracycline in Managing Huanglongbing
+    and Asian Citrus Psyllid in Infected Sweet Orange (Citrus sinensis) Trees
   authors:
-  - Daniel S. Himmelstein
-  - Michael Zietz
-  - Vincent Rubinetti
-  - Kyle Kloster
-  - Benjamin J. Heil
-  - Faisal Alquaddoomi
-  - Dongbo Hu
-  - David N. Nicholson
-  - Yun Hao
-  - Blair D. Sullivan
-  - Michael W. Nagle
-  - Casey S. Greene
-  publisher: Cold Spring Harbor Laboratory
-  date: '2023-01-07'
-  link: https://doi.org/grmcb9
-  orcid: 0000-0002-4655-3773
+  - Leigh Archer
+  - Jawwad Qureshi
+  - Ute Albrecht
+  publisher: Agriculture
+  date: '2022-10-01'
+  link: https://doi.org/gr9fz4
+  orcid: 0000-0003-1889-9598
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1186/s13059-020-02021-3
-  title: Compressing gene expression data using multiple latent space dimensionalities
-    learns complementary biological representations
+- id: doi:10.3390/horticulturae8060552
+  title: "Trunk Injection as a Tool to Deliver Plant Protection Materials\u2014An\
+    \ Overview of Basic Principles and Practical Considerations"
   authors:
-  - Gregory P. Way
-  - Michael Zietz
-  - Vincent Rubinetti
-  - Daniel S. Himmelstein
-  - Casey S. Greene
-  publisher: Genome Biology
-  date: '2020-05-11'
-  link: https://doi.org/gg2mjh
-  orcid: 0000-0002-4655-3773
+  - Leigh Archer
+  - Jonathan H. Crane
+  - Ute Albrecht
+  publisher: Horticulturae
+  date: '2022-06-19'
+  link: https://doi.org/gr9fz5
+  orcid: 0000-0003-1889-9598
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1371/journal.pcbi.1007128
-  title: Open collaborative writing with Manubot
+- id: doi:10.1016/j.cropro.2021.105862
+  title: Individual protective covers (IPCs) to prevent Asian citrus psyllid and Candidatus
+    Liberibacter asiaticus from establishing in newly planted citrus trees
   authors:
-  - Daniel S. Himmelstein
-  - Vincent Rubinetti
-  - David R. Slochower
-  - Dongbo Hu
-  - Venkat S. Malladi
-  - Casey S. Greene
-  - Anthony Gitter
-  publisher: PLOS Computational Biology
-  date: '2020-12-04'
-  link: https://doi.org/c7np
-  orcid: 0000-0002-4655-3773
-  plugin: sources.py
-  file: sources.yaml
-  type: paper
-  description: Lorem ipsum _dolor_ **sit amet**, consectetur adipiscing elit, sed
-    do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  image: https://journals.plos.org/ploscompbiol/article/figure/image?size=inline&id=info:doi/10.1371/journal.pcbi.1007128.g001&rev=2
-  buttons:
-  - type: manubot
-    link: https://greenelab.github.io/meta-review/
-  - type: source
-    text: Manuscript Source
-    link: https://github.com/greenelab/meta-review
-  - type: website
-    link: http://manubot.org/
-  tags:
-  - open science
-  - collaboration
-  repo: greenelab/meta-review
-- id: doi:10.1101/573782
-  title: Sequential compression of gene expression across dimensionalities and methods
-    reveals no single best method or dimensionality
-  authors:
-  - Gregory P. Way
-  - Michael Zietz
-  - Vincent Rubinetti
-  - Daniel S. Himmelstein
-  - Casey S. Greene
-  publisher: Cold Spring Harbor Laboratory
-  date: '2019-03-11'
-  link: https://doi.org/gfxjxf
-  orcid: 0000-0002-4655-3773
+  - Susmita Gaire
+  - Ute Albrecht
+  - Ozgur Batuman
+  - Jawwad Qureshi
+  - Mongi Zekri
+  - Fernando Alferez
+  publisher: Crop Protection
+  date: '2022-02-01'
+  link: https://doi.org/gr9fz6
+  orcid: 0000-0003-1889-9598
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1016/j.csbj.2020.05.017
-  title: Constructing knowledge graphs and their biomedical applications
+- id: uri:https://journals.flvc.org/edis/article/view/129548
+  title: 'Trunk Injection to Deliver Crop Protection Materials: An Overview of Basic
+    Principles and Practical Considerations'
+  publisher: EDIS
+  date: '2022-06-02'
+  link: https://journals.flvc.org/edis/article/view/129548
+  orcid: 0000-0003-1889-9598
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.32473/edis-hs1426-2021
+  title: 'Trunk Injection to Deliver Crop Protection Materials: An Overview of Basic
+    Principles and Practical Considerations'
   authors:
-  - David N. Nicholson
-  - Casey S. Greene
-  publisher: Computational and Structural Biotechnology Journal
-  date: '2020-01-01'
-  link: https://doi.org/gg7m48
-  image: https://ars.els-cdn.com/content/image/1-s2.0-S2001037020302804-gr1.jpg
-  plugin: sources.py
-  file: sources.yaml
-- id: doi:10.7554/eLife.32822
-  title: Sci-Hub provides access to nearly all scholarly literature
+  - Leigh Archer
+  - Ute Albrecht
+  - Jonathan Crane
+  publisher: EDIS
+  date: '2021-11-16'
+  link: https://doi.org/gr9fz7
+  orcid: 0000-0003-1889-9598
+  plugin: orcid.py
+  file: orcid.yaml
+- id: uri:https://journals.flvc.org/edis/article/view/128895
+  title: Individual Protective Covers (IPCs) for Young Tree Protection from the HLB
+    Vector, the Asian Citrus Psyllid
+  publisher: EDIS
+  date: '2022-06-02'
+  link: https://journals.flvc.org/edis/article/view/128895
+  orcid: 0000-0003-1889-9598
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.32473/edis-hs1425-2021
+  title: Individual Protective Covers (IPCs) for Young Tree Protection from the HLB
+    Vector, the Asian Citrus Psyllid
   authors:
-  - Daniel S Himmelstein
-  - Ariel Rodriguez Romero
-  - Jacob G Levernier
-  - Thomas Anthony Munro
-  - Stephen Reid McLaughlin
-  - Bastian Greshake Tzovaras
-  - Casey S Greene
-  publisher: eLife
-  date: '2018-03-01'
-  link: https://doi.org/ckcj
-  image: https://iiif.elifesciences.org/lax:32822%2Felife-32822-fig8-v3.tif/full/863,/0/default.webp
-  plugin: sources.py
-  file: sources.yaml
+  - Fernando Alferez
+  - Ute Albrecht
+  - Susmita Gaire
+  - Ozgur Batuman
+  - Jawwad Qureshi
+  - Mongi Zekri
+  publisher: EDIS
+  date: '2021-10-27'
+  link: https://doi.org/gr9fz8
+  orcid: 0000-0003-1889-9598
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1007/s00468-021-02133-8
+  title: Effect of plant biostimulants on root and plant health and the rhizosphere
+    microbiome of citrus trees in huanglongbing-endemic conditions
+  authors:
+  - Antonio Castellano-Hinojosa
+  - Bo Meyering
+  - Andrea Nuzzo
+  - Sarah L. Strauss
+  - Ute Albrecht
+  publisher: Trees
+  date: '2021-05-02'
+  link: https://doi.org/gn5xbc
+  orcid: 0000-0003-1889-9598
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.32473/edis-hs1302-2021
+  title: "2021\u20132022 Florida Citrus Production Guide: Grove Planning and Establishment"
+  authors:
+  - Christopher Vincent
+  - Tripti Vashisth
+  - Mongi Zekri
+  - Ute Albrecht
+  publisher: EDIS
+  date: '2021-08-17'
+  link: https://doi.org/gr9fz9
+  orcid: 0000-0003-1889-9598
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.32473/edis-hs1308-2021
+  title: "2021\u20132022 Florida Citrus Production Guide: Rootstock and Scion Selection"
+  authors:
+  - Tripti Vashisth
+  - Ute Albrecht
+  - Fernando Alferez
+  - Mongi Zekri
+  publisher: EDIS
+  date: '2021-08-17'
+  link: https://doi.org/gr9f2b
+  orcid: 0000-0003-1889-9598
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.3390/agronomy10121907
+  title: Rootstock Influences on Health and Growth Following Candidatus Liberibacter
+    asiaticus Infection in Young Sweet Orange Trees
+  authors:
+  - Kim D. Bowman
+  - Ute Albrecht
+  publisher: Agronomy
+  date: '2020-12-02'
+  link: https://doi.org/gr9f2c
+  orcid: 0000-0003-1889-9598
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.32473/edis-hs1302-2020
+  title: "2020\u20132021 Florida Citrus Production Guide: Grove Planning and Establishment"
+  authors:
+  - Christopher Vincent
+  - Tripti Vashisth
+  - Mongi Zekri
+  - Ute Albrecht
+  publisher: EDIS
+  date: '2020-08-19'
+  link: https://doi.org/gr9f2d
+  orcid: 0000-0003-1889-9598
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.32473/edis-hs1308-2020
+  title: "2020\u20132021 Florida Citrus Production Guide: Rootstock and Scion Selection"
+  authors:
+  - Ute Albrecht
+  - Fernando Alferez
+  - Mongi Zekri
+  publisher: EDIS
+  date: '2020-08-19'
+  link: https://doi.org/gr9f2f
+  orcid: 0000-0003-1889-9598
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1007/s00248-020-01497-7
+  title: Impact of Soil Microbial Amendments on Tomato Rhizosphere Microbiome and
+    Plant Growth in Field Soil
+  authors:
+  - Andrea Nuzzo
+  - Aditi Satpute
+  - Ute Albrecht
+  - Sarah L Strauss
+  publisher: Microbial Ecology
+  date: '2020-03-06'
+  link: https://doi.org/gn5zn3
+  orcid: 0000-0003-1889-9598
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1007/s00468-019-01925-3
+  title: Rootstock influences the metabolic response to Candidatus Liberibacter asiaticus
+    in grafted sweet orange trees
+  authors:
+  - Ute Albrecht
+  - Indu Tripathi
+  - Kim D. Bowman
+  publisher: Trees
+  date: '2019-11-05'
+  link: https://doi.org/gr9f2g
+  orcid: 0000-0003-1889-9598
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.3390/antibiotics8040262
+  title: Tracing Penicillin Movement in Citrus Plants Using Fluorescence-Labeled Penicillin
+  authors:
+  - Nabil Killiny
+  - Pedro Gonzalez-Blanco
+  - Yulica Santos-Ortega
+  - Fuad Al-Rimawi
+  - Amit Levy
+  - Faraj Hijaz
+  - Ute Albrecht
+  - Ozgur Batuman
+  publisher: Antibiotics
+  date: '2019-12-12'
+  link: https://doi.org/gr9f2h
+  orcid: 0000-0003-1889-9598
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.32473/edis-hs1340-2020
+  title: 'Citrus Nursery Production Guide, Chapter 4: Rootstock Selection'
+  authors:
+  - Ute Albrecht
+  - Manjul Dutt
+  - Jude Grosser
+  publisher: EDIS
+  date: '2019-09-13'
+  link: https://doi.org/gr9f2j
+  orcid: 0000-0003-1889-9598
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.32473/edis-hs1330-2019
+  title: 'Plant Biostimulants: Definition and Overview of Categories and Effects'
+  authors:
+  - Ute Albrecht
+  publisher: EDIS
+  date: '2019-05-15'
+  link: https://doi.org/gr9f2k
+  orcid: 0000-0003-1889-9598
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1007/s00468-018-1773-1
+  title: Rootstock effects on metabolite composition in leaves and roots of young
+    navel orange (Citrus sinensis L. Osbeck) and pummelo (C. grandis L. Osbeck) trees
+  authors:
+  - Ute Albrecht
+  - Indu Tripathi
+  - Hoyoun Kim
+  - Kim D. Bowman
+  publisher: Trees
+  date: '2018-10-03'
+  link: https://doi.org/gr9f2m
+  orcid: 0000-0003-1889-9598
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.32473/edis-hs1309-2017
+  title: Citrus Propagation
+  authors:
+  - Ute Albrecht
+  - Mongi Zekri
+  - Jeffrey G. Williamson
+  publisher: EDIS
+  date: '2017-10-24'
+  link: https://doi.org/gr9f2n
+  orcid: 0000-0003-1889-9598
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.32473/edis-hs1308-2017
+  title: 'Citrus Production Guide: Rootstock and Scion Selection'
+  authors:
+  - Ute Albrecht
+  - Fernando Alferez
+  - Mongi Zekri
+  publisher: EDIS
+  date: '2017-10-05'
+  link: https://doi.org/gr9f2p
+  orcid: 0000-0003-1889-9598
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.plaphy.2016.05.030
+  title: Metabolic variations in different citrus rootstock cultivars associated with
+    different responses to Huanglongbing
+  authors:
+  - Ute Albrecht
+  - Oliver Fiehn
+  - Kim D. Bowman
+  publisher: Plant Physiology and Biochemistry
+  date: '2016-10-01'
+  link: https://doi.org/f8z4rz
+  orcid: 0000-0003-1889-9598
+  plugin: orcid.py
+  file: orcid.yaml
